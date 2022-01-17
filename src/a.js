@@ -1,0 +1,5 @@
+import './b.scss'
+import './a.css'
+import './c.less'
+import './d.styl'
+export default 'hello world'
