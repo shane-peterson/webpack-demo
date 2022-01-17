@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebpack_demo=self.webpackChunkwebpack_demo||[]).push([[958],{958:(e,a,c)=>{function k(){alert("I'm lazy bone")}c.r(a),c.d(a,{default:()=>k})}}]);
